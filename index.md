@@ -7,6 +7,16 @@ During my undergrad I focused on **advanced vehicle propulsion systems**. I was 
 
 Convinced of the tremendous potential in both vehicle electrification and autonomy, my current research interest lies in **human-robot interaction**, with its application on safe and efficient autonomous driving: how self-driving vehicles should "behave" when sharing the road with human-driven vehicles in a mixed traffic flow.
 
+## Projects
+- Stabilizing traffic using inverse reinforcement learning
+
+- Measurement and evaluation of water&gas spatial distribution in PEM fuel cell
+
+- Design space exploration for series plugin hybrid electric delivery truck
+
+- Design and simulation of left turn prohibition-based urban transportation system
+
+
 
 ## Publications
 1. Jung, D., Ahmed, Q., **Zhang, X.**, and Rizzoni, G., "Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck," SAE Technical Paper 2018-01-1027, 2018, https://doi.org/10.4271/2018-01-1027.
