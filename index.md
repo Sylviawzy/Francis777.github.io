@@ -3,12 +3,14 @@ Hi, I'm Xieyuan (Francis) Zhang, welcome to my homepage!
 
 I'm a first-year MS student in Department of Mechanical Engineering, Stanford University. Before entering Stanford, I received my bachelor degree from Department of Automotive Engineering, Tsinghua University in 2018.
 
-During my undergrad I focused on **advanced vehicle propulsion systems**. I was fortunate to work on vehicular proton-exchange membrane fuel cell(PEMFC) under supervision of [Prof. Liangfei Xu](https://scholar.google.com/citations?hl=zh-CN&user=jGWQpRkAAAAJ&view_op=list_works&sortby=pubdate) in my senior year. In summer 2017, I was a visiting scholar at [Center for Automotive Research](https://car.osu.edu), The Ohio State University to work on plug-in hybrid electric truck under supervision of [Prof. Giorgio Rizzoni](https://scholar.google.com/citations?user=jtephu8AAAAJ&hl=en).
+During my undergrad I focused on **advanced vehicle propulsion systems**. I was fortunate to work on vehicular proton-exchange membrane fuel cell(PEMFC) under supervision of [Prof. Liangfei Xu](https://scholar.google.com/citations?hl=zh-CN&user=jGWQpRkAAAAJ&view_op=list_works&sortby=pubdate) in my senior year. In summer 2017, I was a visiting scholar at [Center for Automotive Research](https://car.osu.edu), The Ohio State University to work on powertrain control and optimization of plug-in hybrid electric truck under supervision of [Prof. Giorgio Rizzoni](https://scholar.google.com/citations?user=jtephu8AAAAJ&hl=en), [Dr. Daniel Jung](http://users.isy.liu.se/en/fs/daner/) and [Dr. Qadeer Ahmed](https://scholar.google.com/citations?user=ZQost2wAAAAJ&hl=en).
 
-Convinced of the tremendous potential in both vehicle electrification and autonomy, my current research interest lies in **human-robot interaction**, with its application on safe and efficient autonomous driving: how self-driving vehicles should "behave" when sharing the road with human-driven vehicles in a mixed traffic flow.
+My research interest is **optimization and optimal control in mixed-autonomy traffic**.
 
 ## Projects
 - Stabilizing traffic using inverse reinforcement learning
+
+This project aims at exploring the potential of stabilizing traffic in a mixed traffic flow using a learning approach when there’s no connectivity between vehicles. We analyze the acceleration feedback-based connected car-following behavior and verified the benefit of connectivity in attenuating velocity fluctuation. Using the connected car-following behavior as expert demonstration, we attempt to obtain the reward function of the autonomous vehicle using inverse reinforcement learning and see if it can ”learn” such optimal behavior without knowledge of the preceding vehicle’s acceleration in real time.
 
 - Measurement and evaluation of water&gas spatial distribution in PEM fuel cell
 
