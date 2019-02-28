@@ -23,8 +23,7 @@ My research interest is **optimization and optimal control in mixed-autonomy tra
 
 ## Publications
 1. Jung, D., Ahmed, Q., **Zhang, X.**, and Rizzoni, G., "Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck," SAE Technical Paper 2018-01-1027, 2018.
-
-[[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
+  [[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
 
 <!---
 ```markdown
