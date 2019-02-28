@@ -9,8 +9,7 @@ My research interest is **optimization and optimal control in mixed-autonomy tra
 
 ## Projects
 - Stabilizing traffic using inverse reinforcement learning
-![irl.png](Francis777.github.io/assets/img/irl.png)
-This project aims at exploring the potential of attenuating velocity perturbation in a mixed traffic flow using a learning approach where expert demonstration comes from acceleration feedback-based connected car-following behavior. In other words, we obtain the reward function of the autonomous vehicle using inverse reinforcement learning and see if it can ”learn” such optimal behavior without knowledge of the preceding vehicle’s acceleration in real time.
+![irl.png](Francis777.github.io/assets/img/irl.png| width=50) This project aims at exploring the potential of attenuating velocity perturbation in a mixed traffic flow using a learning approach where expert demonstration comes from acceleration feedback-based connected car-following behavior. In other words, we obtain the reward function of the autonomous vehicle using inverse reinforcement learning and see if it can ”learn” such optimal behavior without knowledge of the preceding vehicle’s acceleration in real time.
 
 - Measurement and evaluation of water&gas spatial distribution in PEM fuel cell
 
