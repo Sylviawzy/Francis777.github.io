@@ -8,16 +8,18 @@ During my undergrad I focused on **advanced vehicle propulsion systems**. I was 
 My research interest is **optimization and optimal control in mixed-autonomy traffic**.
 
 ## Projects
-- Stabilizing traffic using inverse reinforcement learning
-![irl.png](Francis777.github.io/assets/img/p_irl.jpeg) 
+- Stabilizing Traffic using Inverse Reinforcement Learning
+![irl.png](Francis777.github.io/assets/img/project_irl.jpeg)
 
-- Measurement and evaluation of water&gas spatial distribution in PEM fuel cell
+- Measurement and Evaluation of Water&Gas Distribution in PEM Fuel Cell
 
-- Design space exploration for series plugin hybrid electric delivery truck
+- Design Space Exploration for Series Plugin Hybrid Electric Delivery Truck
 
-- Design and simulation of left turn prohibition-based urban transportation system
+- Analysis and Optimization of High Power Wireless Charging System
 
+- Design and Simulation of Left Turn Prohibition-based Urban Transport System
 
+- Design and Comparison of Medium and Low Temperature Solar Power Generation System based on Organic Rankine Cycle
 
 ## Publications
 1. Jung, D., Ahmed, Q., **Zhang, X.**, and Rizzoni, G., "Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck," SAE Technical Paper 2018-01-1027, 2018, https://doi.org/10.4271/2018-01-1027.
