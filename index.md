@@ -22,7 +22,9 @@ My research interest is **optimization and optimal control in mixed-autonomy tra
 - Design and Comparison of Medium and Low Temperature Solar Power Generation System based on Organic Rankine Cycle
 
 ## Publications
-1. Jung, D., Ahmed, Q., **Zhang, X.**, and Rizzoni, G., "Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck," SAE Technical Paper 2018-01-1027, 2018.[pdf](Francis777.github.io/assets/files/2018-01-1027.pdf)
+1. Jung, D., Ahmed, Q., **Zhang, X.**, and Rizzoni, G., "Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck," SAE Technical Paper 2018-01-1027, 2018.
+
+[[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
 
 <!---
 ```markdown
