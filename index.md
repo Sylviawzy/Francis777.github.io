@@ -6,7 +6,7 @@ I'm a first-year MS student in Department of Mechanical Engineering, Stanford Un
 During my undergrad I focused on **advanced vehicle propulsion systems**. I was fortunate to work on vehicular proton-exchange membrane fuel cell(PEMFC) under supervision of [Prof. Liangfei Xu](https://scholar.google.com/citations?hl=zh-CN&user=jGWQpRkAAAAJ&view_op=list_works&sortby=pubdate) in my senior year. In summer 2017, I was a visiting scholar at [Center for Automotive Research](https://car.osu.edu), The Ohio State University to work on powertrain control and optimization of plug-in hybrid electric truck under supervision of [Prof. Giorgio Rizzoni](https://scholar.google.com/citations?user=jtephu8AAAAJ&hl=en), [Dr. Daniel Jung](http://users.isy.liu.se/en/fs/daner/) and [Dr. Qadeer Ahmed](https://scholar.google.com/citations?user=ZQost2wAAAAJ&hl=en).
 
 My research interest is **optimization and optimal control in mixed-autonomy traffic**.
-
+<br><br>
 ## Projects
 
 ### Stabilizing Traffic using Inverse Reinforcement Learning
@@ -16,16 +16,17 @@ This project aims at exploring the potential of attenuating velocity perturbatio
 In other words, we see if an autonomous car can ”learn” such optimal behavior without knowledge of the preceding vehicle’s acceleration in real time.
 
 ![project_irl.jpg](Francis777.github.io/assets/img/project_irl.jpg)
-
+<br><br>
 ### Measurement and Evaluation of Water&Gas Distribution in PEM Fuel Cell
 ![project_pemfc.jpg](Francis777.github.io/assets/img/project_pemfc.jpg)
-
+<br><br>
 ### Design Space Exploration for Series Plugin Hybrid Electric Delivery Truck
 ![project_osu.jpg](Francis777.github.io/assets/img/project_osu.jpg)
-
+<br><br>
 ### Design and Simulation of Left Turn Prohibition-based Urban Transport System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n3-ceNZjktA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+<br><br>
 ### Analysis and Optimization of High Power Wireless Charging System
 
 In this project we explored **battery downsizing potential** of a commercial electric bus which is equipped with wireless charging system by optimizing its operating cycle.
@@ -35,7 +36,7 @@ According to our results, the rated battery capacity can be reduced by more than
 ![project_charging.jpg](Francis777.github.io/assets/img/project_charging.jpg)
 
 
-
+<br><br>
 ## Publications
 
 1. Jung, D., Ahmed, Q., **Zhang, X.**, & Rizzoni, G. (2018). Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck (No. 2018-01-1027). *SAE Technical Paper*. [[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
