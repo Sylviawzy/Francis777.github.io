@@ -8,7 +8,8 @@ During my undergrad I focused on **advanced vehicle propulsion systems**. I was 
 My research interest is **optimization and optimal control in mixed-autonomy traffic**.
 
 ## Projects
-- Stabilizing Traffic using Inverse Reinforcement Learning
+
+### Stabilizing Traffic using Inverse Reinforcement Learning
 
     This project aims at exploring the potential of attenuating velocity perturbation in a mixed traffic flow using inverse reinforcement learning, using acceleration feedback-based connected car-following behavior as expert demonstration.
 
@@ -16,15 +17,18 @@ My research interest is **optimization and optimal control in mixed-autonomy tra
 
 ![project_irl.jpg](Francis777.github.io/assets/img/project_irl.jpg)
 
-- Measurement and Evaluation of Water&Gas Distribution in PEM Fuel Cell
+### Measurement and Evaluation of Water&Gas Distribution in PEM Fuel Cell
+![project_pemfc.jpg](Francis777.github.io/assets/img/project_pemfc.jpg)
 
-- Design Space Exploration for Series Plugin Hybrid Electric Delivery Truck
+### Design Space Exploration for Series Plugin Hybrid Electric Delivery Truck
+![project_osu.jpg](Francis777.github.io/assets/img/project_osu.jpg)
 
-- Analysis and Optimization of High Power Wireless Charging System
+### Analysis and Optimization of High Power Wireless Charging System
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n3-ceNZjktA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-- Design and Simulation of Left Turn Prohibition-based Urban Transport System
+### Design and Simulation of Left Turn Prohibition-based Urban Transport System
 
-- Design and Comparison of Medium and Low Temperature Solar Power Generation System based on Organic Rankine Cycle
+### Design and Comparison of Medium and Low Temperature Solar Power Generation System based on Organic Rankine Cycle
 
 ## Publications
 1. Jung, D., Ahmed, Q., **Zhang, X.**, and Rizzoni, G., "Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck," SAE Technical Paper 2018-01-1027, 2018. [[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
