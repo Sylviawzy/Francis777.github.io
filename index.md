@@ -13,7 +13,7 @@ This project aims at exploring the potential of attenuating velocity perturbatio
 
 In other words, we see if an autonomous car can ”learn” such optimal behavior without knowledge of the preceding vehicle’s acceleration in real time.
 
-![irl.png](Francis777.github.io/assets/img/project1_cs333.jpeg)
+![irl.png](Francis777.github.io/assets/img/project1_irl.jpg)
 
 - Measurement and Evaluation of Water&Gas Distribution in PEM Fuel Cell
 
