@@ -1,5 +1,7 @@
+
+**Hi, I'm Xieyuan (Francis) Zhang, welcome to my homepage!**
+
 ## About Me
-Hi, I'm Xieyuan (Francis) Zhang, welcome to my homepage!
 
 I'm a first-year MS student in Department of Mechanical Engineering, Stanford University. Before entering Stanford, I received my bachelor degree from Department of Automotive Engineering, Tsinghua University in 2018.
 
@@ -8,6 +10,7 @@ During my undergrad I focused on **advanced vehicle propulsion systems**. I was 
 My research interest is **optimization and optimal control in mixed-autonomy traffic**.
 <br><br>
 ## Projects
+<div id = "projects"></div>
 
 ### Stabilizing Traffic using Inverse Reinforcement Learning
 
@@ -38,6 +41,7 @@ According to our results, the rated battery capacity can be reduced by more than
 
 <br><br>
 ## Publications
+<div id = "publications"></div>
 
 1. Jung, D., Ahmed, Q., **Zhang, X.**, & Rizzoni, G. (2018). Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck (No. 2018-01-1027). *SAE Technical Paper*. [[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
 
